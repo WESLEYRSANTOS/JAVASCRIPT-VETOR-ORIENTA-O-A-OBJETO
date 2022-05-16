@@ -1,0 +1,40 @@
+body {
+    background-color: gray;
+    width: auto;
+    margin: auto;
+    padding-left: 150px;
+    padding-top: 50px;
+    color: yellow;
+}
+
+#divgeral {
+    padding: 50px;
+    max-width: 400px;
+    border-radius: 15px;
+    background-color: blue;
+}
+div {
+    padding: 10px;
+}
+
+input{
+    background-color: wheat;
+}
+
+#opcao{
+    
+    border-radius: 15px;
+    margin-top: 30px;
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    background-color:rgb(87,85,85);
+}
+
+button{
+    margin: auto;
+    color: white;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding: 8px;
+    background-color: rgb(87, 85, 85);
+}
